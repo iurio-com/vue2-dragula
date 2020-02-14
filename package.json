@@ -20,7 +20,7 @@
     "lint": "eslint src"
   },
   "dependencies": {
-    "dragula": "3.7.2"
+    "dragula": "github:iurio-com/dragula"
   },
   "devDependencies": {
     "babel-core": "^6.2.1",
